@@ -1,2 +1,2 @@
-# learning_es6
+# Learning ES6
 Learning ECMA 2015
